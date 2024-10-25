@@ -35,13 +35,6 @@ Check out the live demo of the Project Management Tool [here](https://project-ma
 
 Follow these instructions to set up the project locally.
 
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Node.js
-- npm or yarn
-
 ### Installation
 
 1. Clone the repository:
@@ -53,34 +46,9 @@ git clone https://github.com/sourabhsahu33/project-management-tool.git
 cd project-management-tool
 
 npm install
-# or
-yarn install
-```
+
 
 # Usage
 ```
 npm start
-# or
-yarn start
-```
-# Folder Structure
-```
-project-management-tool/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Project.js
-│   │   ├── Task.js
-│   │   └── ...
-│   ├── redux/
-│   │   ├── actions/
-│   │   ├── reducers/
-│   │   └── store.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── ...
-```
+
